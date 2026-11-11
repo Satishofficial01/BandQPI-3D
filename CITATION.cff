@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use BandQPI-3D, please cite it as below."
+title: "BandQPI-3D: bands, DOS and quasiparticle interference from SIESTA/HONPAS Hamiltonians"
+version: "1.0"
+date-released: "2026-11-11"
+authors:
+  - family-names: "Kumar"
+    given-names: "Satish"
+    email: "97satish02@gmail.com"
+    orcid: "https://orcid.org/0009-0000-2018-1564"
+    affiliation: "Computational Condensed Matter Physics"
+keywords: [SIESTA, HONPAS, band structure, density of states, quasiparticle interference, fat bands, magnetism]
